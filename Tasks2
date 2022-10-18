@@ -1,0 +1,91 @@
+#include <iostream>
+#include <math.h>
+using namespace std;
+// Task1
+//void main() {
+//	int a;
+//	cout << "Enter a value - " ; cin >> a;
+//	for (int i = 0; i <= 500; i++) {
+//		if (a += a)
+//		cout << a;
+//	}
+//}
+// Task2
+//void main() {
+//	int x, y;
+//	cout << "Enter two numbers - " << endl; cin >> x >> y;
+//	cout << pow(x, y);
+//}
+// Task3
+//void main() {
+//	for (int i = 1; i < 1000; i++) {
+//		if ((1 + 1000) / 2)
+//			cout << i;
+//	}
+//}
+//Task4
+//int main() {
+//	int a;
+//	cin >> a;
+//	for (int i = 1; i <= 20; i++) {
+//		a *= i;
+//	}
+//	cout << a;
+//}
+//Task5
+//int main() {
+//	int k;
+//	cout << "The multiplication table program." << endl;
+//	cin >> k;
+//	for (int a = 0; a < 10; a++) {
+//			cout << k << " " << "Option - " << "Number: " << k * a << endl;
+//	}
+//}
+// Task 6
+//int main() {
+//	int i;
+//	cin >> i;
+//	for (int i = 0; i < 10; i++)
+//	{
+//		cout << i;
+//	}
+//}
+// Task 7
+// Я не понимаю как решить задачу :(
+//int main() {
+//	int RangeBoundary1;
+//	int RangeBoundary2;
+//	cout << "Enter one range boundary - " ;
+//	cin >> RangeBoundary1;
+//	cout << "Enter two range boundary - " ;
+//	cin >> RangeBoundary2;
+//	for (int i = 0; i < RangeBoundary1; i++) {
+//		cout << "All numbers in this range - " << " " << i << endl << "Even numbers - " << " " << RangeBoundary1 / 2 << "Odd numbers - " << " " << endl << RangeBoundary1 - 1 << "The numbers are multiples of 7 - " << " " << endl << RangeBoundary1 % 7;
+//	}
+//	for (int j = 0; j < RangeBoundary2; j++) {
+//		cout << "All numbers in this range - " << j << endl << "Even numbers - " << j / 2 << "Odd numbers - " << endl << j - 1 << "The numbers are multiples of 7 - " << endl << j % 7;
+//	}
+//	return 0;
+//}
+//Task 8
+//int main() {
+//    int x, y, sum;
+//    cin >> x >> y;
+//    while (sum = x + y) {
+//        if (x + y)
+//            cout << sum;
+//        break;
+//    }
+//}
+//Task 9
+//int main() {
+//	int x, y, sum, zero;
+//	cin >> x >> y;
+//	cout << "Enter zero to get the sum of two numbers - " ; cin >> zero;
+//	while (sum = x + y) {
+//		if (zero == 0) {
+//			cout << sum;
+//			break;
+//		}
+//	}
+//}
